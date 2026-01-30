@@ -32,15 +32,16 @@ A three-plugin pipeline for turning vague ideas into production code:
 
 ## Installation
 
-Install via Claude Code marketplace:
+Add the marketplace once (using any plugin repo), then install whichever plugins you need:
 
 ```
-/plugin marketplace add piercelamb/<plugin-name>
-/plugin install <plugin-name>
-/plugin enable <plugin-name>
+/plugin marketplace add piercelamb/deep-plan
+/plugin install deep-project
+/plugin install deep-plan
+/plugin install deep-implement
 ```
 
-Or clone manually:
+Or install individually via clone:
 
 ```bash
 git clone https://github.com/piercelamb/<plugin-name> ~/.claude/plugins/<plugin-name>
