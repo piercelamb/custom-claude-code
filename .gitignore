@@ -1,0 +1,7 @@
+# Plugin directories are separate repos
+deep_plan/
+deep_implement/
+deep_project/
+
+# Local dev artifacts
+.agents/
