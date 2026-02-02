@@ -22,6 +22,11 @@ A three-plugin pipeline for turning vague ideas into production code:
 - **Single focused feature?** Start with [/deep-plan](https://github.com/piercelamb/deep-plan)
 - **Already have section files?** Skip to [/deep-implement](https://github.com/piercelamb/deep-implement)
 
+### Blog Posts
+
+- [The Deep Trilogy: Claude Code Plugins for Writing Good Software, Fast](https://pierce-lamb.medium.com/the-deep-trilogy-claude-code-plugins-for-writing-good-software-fast-33b76f2a022d) - Overview of the pipeline
+- [What I Learned Building the Deep Trilogy](https://pierce-lamb.medium.com/what-i-learned-while-building-a-trilogy-of-claude-code-plugins-72121823172b) - Technical lessons from plugin development
+
 ## All Plugins
 
 | Plugin | Description | Status |
